@@ -1,4 +1,4 @@
-# Creon 주식 수집 & 백테스트 프로그램
+# Creon 주가 수집 & 백테스트 프로그램
 
 ![GIF 2020-09-16 수 오후 8-43-40](https://user-images.githubusercontent.com/15887982/93333254-030cb480-f85e-11ea-9884-fbbbb5977850.gif)
 
